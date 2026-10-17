@@ -1,8 +1,5 @@
 # Healthcare-Operations-Revenue-BI-Dashboard
 End-to-end Healthcare Operations &amp; Revenue BI Dashboard built with Power BI and DAX. Features an AI-driven data extraction and automated cleaning pipeline that prepares normalized CSV schemas to analyze clinical throughput, doctor performance, and billing realization.
-
-<img width="1920" height="1080" alt="Screenshot (104)" src="https://github.com/user-attachments/assets/bd5304de-4b9a-4d8c-9f20-3e6d1128bc2c" />
-
 # 🏥 Healthcare Operations & Revenue Analytics Dashboard
 
 An end-to-end Business Intelligence solution developed in **Power BI** to monitor operational throughput, doctor performance, patient demographics, and revenue realization across a multi-department clinic network.
